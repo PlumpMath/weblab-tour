@@ -1,0 +1,821 @@
+{
+    "popupContent": [
+        {
+            "id": 411,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/411"
+            }
+        },
+        {
+            "id": 412,
+            "type": "text",
+            "content": {
+                "headline": "VITOCROSSAL 200",
+                "subheadline": [
+                    "Gas condensing boiler",
+                    "87 – 311 kW"
+                ],
+                "list": [
+                    "Wide application range due to cascade option up to 622 kW and 6 bar operating pressure",
+                    "Easy hydraulic connection thanks to large water capacity",
+                    "Excellent accessibility to all components requiring service, for example burner access from the front"
+                ],
+                "url": "{IMAGEPATH}/412"
+            }
+        },
+        {
+            "id": 413,
+            "type": "text",
+            "content": {
+                "headline": "VITOCAL 300-A",
+                "subheadline": [
+                    "Air /water heat pump",
+                    "4 – 50 kW"
+                ],
+                "list": [
+                    "Broad spectrum of use, especially for commercial applications thanks to cascade option up to 250 kW",
+                    "Easy integration into multi mode systems with Vitotronic 200 control unit"
+                ],
+                "url": "{IMAGEPATH}/413"
+            }
+        },
+        {
+            "id": 414,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_414"
+            }
+        },
+        {
+            "id": 421,
+            "type": "text",
+            "content": {
+                "headline": "VITOBLOC 200 EM-530/660",
+                "subheadline": [
+                    "CHP unit for natural gas",
+                    "530 kWel, 660 kWth"
+                ],
+                "list": [
+                    "Straightforward connection to the mains through certification to BDEW guideline",
+                    "Operation with either heat or power bias" ,
+                    "Most compact CHP unit of its kind"
+                ],
+                "url": "{IMAGEPATH}/421"
+            }
+        },
+        {
+            "id": 431,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_431"
+            }
+        },
+        {
+            "id": 441,
+            "type": "text",
+            "content": {
+                "headline": "VITOCAL 350-HT",
+                "subheadline": [
+                    "Brine/water heat pump",
+                    "20 – 140 kW"
+                ],
+                "list": [
+                    "Broad application spectrum with 10 bar pressure rating and large output and temperature ranges",
+                    "Straightforward commissioning due to plain text assistant",
+                    "High operational reliability thanks to factory test at operating temperature"
+                ],
+                "url": "{IMAGEPATH}/441"
+            }
+        },
+        {
+            "id": 442,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_442"
+            }
+        },
+        {
+            "id": 521,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/521"
+            }
+        },
+        {
+            "id": 522,
+            "type": "text",
+            "content": {
+                "headline": "VITOLACALDENS 222-F",
+                "subheadline": [
+                    "Compact oil fired hybrid appliance in split design",
+                    "1.3 – 23.5 kW, 100 l"
+                ],
+                "list": [
+                    "Fully pre-assembled for quick, safe installation of the internal unit",
+                    "Simple connection of the external unit via refrigerant lines",
+                    "Comprehensive diagnostic/ service help"
+                ],
+                "url": "{IMAGEPATH}/522"
+            }
+        },
+        {
+            "id": 523,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_523"
+            }
+        },
+        {
+            "id": 611,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/611"
+            }
+        },
+        {
+            "id": 612,
+            "type": "text",
+            "content": {
+                "headline": "VITOCAL 250-S",
+                "subheadline": [
+                    "Heat pump internal unit for combination with existing oil, gas or pellet boiler",
+                    "1.1 – 16 kW"
+                ],
+                "list": [
+                    "Reliable engineering and implementation due to matching system technology",
+                    "Fully pre-assembled for quick, safe installation",
+                    "Flexible application with boilers of up to 30 kW output"
+                ],
+                "url": "{IMAGEPATH}/612"
+            }
+        },
+        {
+            "id": 613,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_613"
+            }
+        },
+        {
+            "id": 721,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/721"
+            }
+        },
+        {
+            "id": 722,
+            "type": "text",
+            "content": {
+                "headline": "VITOVALOR 300-P",
+                "subheadline": [
+                    "Fuel cell heating appliance (PEMFC)",
+                    "0.75 kWel /1 kWth, 19 kWth, 46/170 l"
+                ],
+                "list": [
+                    "Simple, rapid installation due to integral hydraulics and buffer and DHW cylinder",
+                    "Only one connection for power, natural gas and water, and one flue system",
+                    "Easy handling thanks to delivery in two parts"
+                ],
+                "url": "{IMAGEPATH}/722"
+            }
+        },
+        {
+            "id": 723,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_723"
+            }
+        },
+        {
+            "id": 731,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/731"
+            }
+        },
+        {
+            "id": 732,
+            "type": "text",
+            "content": {
+                "headline": "VITOTWIN 350-F",
+                "subheadline": [
+                    "Compact micro CHP appliance",
+                    "1 kWel /5.3 kWth, 3.6 – 26 kWth, 175 l"
+                ],
+                "list": [
+                    "Easy handling thanks to delivery In three parts",
+                    "Straightforward fail-safe installation due to pre-assembled pipework, sensor technology and integral low loss header"
+                ],
+                "url": "{IMAGEPATH}/732"
+            }
+        },
+        {
+            "id": 733,
+            "type": "text",
+            "content": {
+                "headline": "VITOVOLT",
+                "subheadline": [
+                    "Lithium based power storage unit",
+                    "5.5 kWh"
+                ],
+                "list": [
+                    "Easy transport and flexible due to compact design and low weight",
+                    "Simple, quick installation thanks to plug & play technology"
+                ],
+                "url": "{IMAGEPATH}/733"
+            }
+        },
+        {
+            "id": 734,
+            "type": "text",
+            "content": {
+                "headline": "VITOTWIN 300-W",
+                "subheadline": [
+                    "Wall mounted micro CHP appliance",
+                    "1 kWel /5.3 kWth, 3.6 – 26 kWth"
+                ],
+                "list": [
+                    "Installation and maintenance as for gas condensing technology",
+                    "External components ready to plug in",
+                    "Maintenance-free Stirling engine"
+                ],
+                "url": "{IMAGEPATH}/734"
+            }
+        },
+        {
+            "id": 735,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_735"
+            }
+        },
+        {
+            "id": 811,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/811"
+            }
+        },
+        {
+            "id": 812,
+            "type": "text",
+            "content": {
+                "headline": "VITOSORP 200-F",
+                "subheadline": [
+                    "Gas adsorption heating appliance",
+                    "1.8 – 15 kW"
+                ],
+                "list": [
+                    "Connections, installation and maintenance as for gas condensing technology",
+                    "Can now be used optional with geothermal or solar heat",
+                    "New 400-litre combi cylinder for solar retrofitting"
+                ],
+                "url": "{IMAGEPATH}/812"
+            }
+        },
+        {
+            "id": 813,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_735"
+            }
+        },
+        {
+            "id": 821,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/821"
+            }
+        },
+        {
+            "id": 822,
+            "type": "text",
+            "content": {
+                "headline": "VITOVENT 200-C",
+                "subheadline": [
+                    "Mechanical ventilation system",
+                    "up to 200 m3/h"
+                ],
+                "list": [
+                    "Fully-wired installation matching system accessories",
+                    "Simple commissioning due to parameter settings made at the programming unit",
+                    "Ceiling or wall mounting"
+                ],
+                "url": "{IMAGEPATH}/822"
+            }
+        },
+        {
+            "id": 823,
+            "type": "text",
+            "content": {
+                "headline": "VITOVOLT 300",
+                "subheadline": [
+                    "Photovoltaic module",
+                    "255 – 270 Wp"
+                ],
+                "list": [
+                    "Modules fully wired for quick, easy installation",
+                    "Comprehensive product and output guarantee",
+                    "Excellent mechanical load bearing capacity for high snow and wind loads"
+                ],
+                "url": "{IMAGEPATH}/823"
+            }
+        },
+        {
+            "id": 824,
+            "type": "text",
+            "content": {
+                "headline": "VITOVOLT",
+                "subheadline": [
+                    "Lithium based power storage unit",
+                    "5.5 kWh"
+                ],
+                "list": [
+                    "Easy transport and flexible installation due to compact design and low weight",
+                    "Simple, quick installation thanks to plug & play technology"
+                ],
+                "url": "{IMAGEPATH}/824"
+            }
+        },
+        {
+            "id": 825,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_825"
+            }
+        },
+        {
+            "id": 911,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/911"
+            }
+        },
+        {
+            "id": 912,
+            "type": "text",
+            "content": {
+                "headline": "VITOSOL 300-T",
+                "subheadline": [
+                    "Vacuum tube collector",
+                    "1.51/3.03 m²"
+                ],
+                "list": [
+                    "Temperature-dependent shutdown protects system from overheating",
+                    "Anti-reflective coating and copper heat exchanger for high output",
+                    "Vertical version"
+                ],
+                "url": "{IMAGEPATH}/912"
+            }
+        },
+        {
+            "id": 913,
+            "type": "text",
+            "content": {
+                "headline": "VITOSOL 200-F",
+                "subheadline": [
+                    "Flat-plate collector",
+                    "2.3 m²"
+                ],
+                "list": [
+                    "Temperature-dependent shutdown protects system from overheating",
+                    "Extensive accessories enable quick and simple installation",
+                    "Horizontal/vertical versions for above roof installation, roof integration or free-standing"
+                ],
+                "url": "{IMAGEPATH}/913"
+            }
+        },
+        {
+            "id": 914,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_914"
+            }
+        },
+        {
+            "id": 921,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/921"
+            }
+        },
+        {
+            "id": 922,
+            "type": "text",
+            "content": {
+                "headline": "VITOLIGNO 300-C",
+                "subheadline": [
+                    "Fully automatic pellet boiler",
+                    "8 – 12 / 18 – 48 kW"
+                ],
+                "list": [
+                    "Commissioning assistant",
+                    "Flexible siting options due to compact method of construction and room sealed operation",
+                    "Pellet storage and pellet supply optional for weekly or annual demand"
+                ],
+                "url": "{IMAGEPATH}/922"
+            }
+        },
+        {
+            "id": 923,
+            "type": "text",
+            "content": {
+                "headline": "VITOCELL 140-E",
+                "subheadline": [
+                    "Heating water buffer cylinder",
+                    "400/600 l"
+                ],
+                "list": [
+                    "Flexible application in multimode systems with heat pump, biomass boiler or solar thermal system",
+                    "Solar-Divicon for time-saving cylinder installation",
+                    "Attached fresh water module Vitotrans 353, 25/48/68 l/min"
+                ],
+                "url": "{IMAGEPATH}/923"
+            }
+        },
+        {
+            "id": 924,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_924"
+            }
+        },
+        {
+            "id": 1011,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/1011"
+            }
+        },
+        {
+            "id": 1012,
+            "type": "text",
+            "content": {
+                "headline": "VITOCAL 350-G",
+                "subheadline": [
+                    "Brine/water heat pump",
+                    "20 – 42 kW"
+                ],
+                "list": [
+                    "Wide output range for high temperature applications due to master/ slave solutions",
+                    "High flow temperature of 70 °C thanks to EVI refrigeration circuit",
+                    "High COP of up to 5.0 at brine 0 °C/water 35 °C"
+                ],
+                "url": "{IMAGEPATH}/1012"
+            }
+        },
+        {
+            "id": 1013,
+            "type": "text",
+            "content": {
+                "headline": "VITOVOLT 300",
+                "subheadline": [
+                    "Photovoltaic module",
+                    "255 – 270 Wp"
+                ],
+                "list": ["On-site power consumption with heat pump – optimised through Vitocomfort 200"],
+                "url": "{IMAGEPATH}/1013"
+            }
+        },
+        {
+            "id": 1014,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_1014"
+            }
+        },
+        {
+            "id": 1021,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/1021"
+            }
+        },
+        {
+            "id": 1022,
+            "type": "text",
+            "content": {
+                "headline": "VITOSOLAR 300-F",
+                "subheadline": [
+                    "Combi cylinder with wall mounted gas condensing boiler Vitodens 300-W",
+                    "1.9 – 35 kW, 750 l"
+                ],
+                "list": [
+                    "Compact module for solar central heating backup",
+                    "Intelligent system unit displays solar yield, heat-up condition and temperature profile",
+                    "Commissioning assistant for the entire system"
+                ],
+                "url": "{IMAGEPATH}/1022"
+            }
+        },
+        {
+            "id": 1023,
+            "type": "text",
+            "content": {
+                "headline": "VITOSOL 300-F",
+                "subheadline": [
+                    "Flat-plate collector",
+                    "2.3 m2"
+                ],
+                "list": [
+                    "Horizontal/vertical versions",
+                    "Structurally verifiable substructure",
+                    "For above roof installation, roof integration or freestanding"
+                ],
+                "url": "{IMAGEPATH}/1023"
+            }
+        },
+        {
+            "id": 1024,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_1024"
+            }
+        },
+        {
+            "id": 1121,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/1121"
+            }
+        },
+        {
+            "id": 1122,
+            "type": "text",
+            "content": {
+                "headline": "VITODENS 300-W",
+                "subheadline": [
+                    "Wall mounted gas condensing boiler",
+                    "1.9 – 35 kW"
+                ],
+                "list": [
+                    "Commissioning assistance in plaintext",
+                    "Internet inside",
+                    "Lambda Pro Control: automatic combustion control for all gas types"
+                ],
+                "url": "{IMAGEPATH}/1122"
+            }
+        },
+        {
+            "id": 1123,
+            "type": "text",
+            "content": {
+                "headline": "VITOCELL 100-W",
+                "subheadline": [
+                    "DHW cylinder",
+                    "300 l"
+                ],
+                "list": [
+                    "Display of heat-up condition and solar yield via app",
+                    "Evaluation of heat-up characteristics (for example reheating suppression)"
+                ],
+                "url": "{IMAGEPATH}/1123"
+            }
+        },
+        {
+            "id": 1124,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_1124"
+            }
+        },
+        {
+            "id": 1131,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/1131"
+            }
+        },
+        {
+            "id": 1132,
+            "type": "text",
+            "content": {
+                "headline": "VITODENS 100-W",
+                "subheadline": [
+                    "Wall mounted gas condensing boiler",
+                    "19 – 35 kW"
+                ],
+                "list": [
+                    "Web-enabled with Vitocom 100 and Vitotrol Plus app",
+                    "Ideal for replacing appliances due to low installed height and adaption of older appliances",
+                    "High operating comfort through touch display"
+                ],
+                "url": "{IMAGEPATH}/1132"
+            }
+        },
+        {
+            "id": 1133,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_1133"
+            }
+        },
+        {
+            "id": 1211,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/1211"
+            }
+        },
+        {
+            "id": 1221,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/1221"
+            }
+        },
+        {
+            "id": 1311,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/1311"
+            }
+        },
+        {
+            "id": 1312,
+            "type": "text",
+            "content": {
+                "headline": "VITOSOL 200-F",
+                "subheadline": [
+                    "Flat-plate collector",
+                    "2.3 m²"
+                ],
+                "list": ["Composite label A+ through additional solar thermal system"],
+                "url": "{IMAGEPATH}/1312"
+            }
+        },
+        {
+            "id": 1313,
+            "type": "text",
+            "content": {
+                "headline": "VITOCELL 100-V",
+                "subheadline": [
+                    "DHW cylinder",
+                    "160 – 1000 l"
+                ],
+                "list": ["Product label A with vacuum thermal insulation"],
+                "url": "{IMAGEPATH}/1313"
+            }
+        },
+        {
+            "id": 1314,
+            "type": "text",
+            "content": {
+                "headline": "VITODENS 300-W",
+                "subheadline": [
+                    "Wall mounted gas condensing boiler",
+                    "1.9 – 35 kW"
+                ],
+                "list": ["2 % efficiency increase through weather-compensated control unit"],
+                "url": "{IMAGEPATH}/1314"
+            }
+        },
+        {
+            "id": 1315,
+            "type": "text",
+            "content": {
+                "headline": "VITOCELL 100-V",
+                "subheadline": [
+                    "DHW cylinder",
+                    "160 – 1000 l"
+                ],
+                "list": ["Product label A with vacuum thermal insulation"],
+                "url": "{IMAGEPATH}/1315"
+            }
+        },
+        {
+            "id": 1411,
+            "type": "text",
+            "content": {
+                "headline": "VITOLIGNO 300-H",
+                "subheadline": [
+                    "Boiler for wood chips and pellets",
+                    "50 – 101 kW"
+                ],
+                "list": [
+                    "Quick, safe installation due to regulated return temperature raising facility",
+                    "Ecotronic control unit with commissioning assistant for up to four heating circuits",
+                    "Extensive range of accessories for fuel storage and supply"
+                ],
+                "url": "{IMAGEPATH}/1411"
+            }
+        },
+        {
+            "id": 1421,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/1421"
+            }
+        },
+        {
+            "id": 1422,
+            "type": "text",
+            "content": {
+                "headline": "VITOSOL 200-T",
+                "subheadline": ["Vacuum tube collector for heating networks, 200 m2 per line"],
+                "list": [
+                    "Modular construction for various system sizes",
+                    "Prefitted assemblies for quick, fault-free installation",
+                    "Easy hydraulic connection"
+                ],
+                "url": "{IMAGEPATH}/1422"
+            }
+        },
+        {
+            "id": 1423,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_1423"
+            }
+        },
+        {
+            "id": 1511,
+            "type": "text",
+            "content": {
+                "headline": "VITOFLEX 300-FSR",
+                "subheadline": [
+                    "Biomass boiler with flat moving grate combustion",
+                    "0.85 – 13 MW"
+                ],
+                "list": [
+                    "Staged combustion (low NOx combustion chamber)",
+                    "Modulating load control from 25 to 100% of rated output",
+                    "Fully automatic ash removal",
+                    "Operation of up to 6000 hours per annum"
+                ],
+                "url": "{IMAGEPATH}/1511"
+            }
+        },
+        {
+            "id": 1512,
+            "type": "text",
+            "content": {
+                "headline": "VITOMAX HS",
+                "multiContent": [
+                    {
+                        "subheadline": [
+                            "High pressure steam boiler",
+                            "0.5 – 30 t/h, 6 – 30 bar"
+                        ],
+                        "list": [
+                            "Standard equipment level with additional modular options for flexible application",
+                            "Compact design with comparatively small dimensions and low weight",
+                            "Easily accessible service components"
+                        ]
+                    },
+                    {
+                        "subheadline": [
+                            "Water treatment unit WAS200-HS Thermal full deaeration for steam boilers",
+                            "500 – 60000 kg/h"
+                        ],
+                        "list": [
+                            "Little engineering and installation effort",
+                            "Ready-to-connect unit, fully plumbed and wired",
+                            "Flexible application due to additional modular options"
+                        ]
+                    }
+                ],
+                "url": "{IMAGEPATH}/1512"
+            }
+        },
+        {
+            "id": 1521,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_1521"
+            }
+        },
+        {
+            "id": 1531,
+            "type": "image",
+            "content": {
+                "url": "{IMAGEPATH}/1531"
+            }
+        },
+        {
+            "id": 1611,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_1611"
+            }
+        },
+        {
+            "id": 1612,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_1612"
+            }
+        },
+        {
+            "id": 1613,
+            "type": "video",
+            "content": {
+                "url": "{VIDEOPATH}/video_1613"
+            }
+        }
+    ]
+}
+
+
